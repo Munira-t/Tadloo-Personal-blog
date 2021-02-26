@@ -8,10 +8,6 @@ This project aims to practice HTML and CSS and build out a mobile-first personal
 - HTML
 - CSS
 
-## Demo
-
-[Sentiment Analyzer Live app](https://sentiment-analyzer-m.herokuapp.com/)
-
 ## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com)
