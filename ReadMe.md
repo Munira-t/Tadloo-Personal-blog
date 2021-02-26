@@ -1,28 +1,3 @@
-
-img1:
-Photo by Annie Spratt on Unsplash.
-
-img2:
-Photo by Vlada Karpovich from Pexels
-
-img3:
-Photo by Jonathan Borba from Pexels
-
-img4:
-Photo by Jonathan Borba
-
-img5:
-Photo by Minimography from Pexels
-
-img6:
-Photo by Snapwire from Pexels
-
-img8:
-
-img9:
-Photo by ika dam on Unsplash 
- -->
-
 # Personal Blog Website
 
 ## Description
@@ -48,4 +23,3 @@ This project aims to practice HTML and CSS and build out a mobile-first personal
 - [Photo by Snapwire from Pexels](https://www.pexels.com/photo/bakery-baking-berry-breakfast-213780/)
 - [Photo by Valeriia Miller from Pexels](https://www.pexels.com/photo/a-photo-of-white-flower-3680203/)
 - [Photo by ika dam on Unsplash](https://unsplash.com/photos/UsxCSCTZWhw)
-
