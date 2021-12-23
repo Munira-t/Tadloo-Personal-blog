@@ -8,6 +8,8 @@ This project aims to practice HTML and CSS and build out a mobile-first personal
 - HTML
 - CSS
 
+## Demo
+[Tadloo personal blog Live](https://tadloo-personal-blog.pages.dev/)
 ## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com)
