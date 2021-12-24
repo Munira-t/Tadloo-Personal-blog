@@ -9,6 +9,10 @@ This project aims to practice HTML and CSS and build out a mobile-first personal
 - CSS
 
 ## Demo
+
+
+![](https://github.com/Munira-t/Tadloo-Personal-blog/blob/main/images/Tadlo-demo.gif)
+
 [Tadloo personal blog Live](https://tadloo-personal-blog.pages.dev/)
 ## Acknowledgements
 
